@@ -12,6 +12,7 @@ I have been using them so far on Ubuntu and Mac OS X.
 ## Install
 
 To install just dotfiles:
+
 ```sh
 git clone https://github.com/cnadiminti/dotfiles.git
 cd dotfiles/bin
@@ -19,6 +20,7 @@ cd dotfiles/bin
 ```
 
 To install dotfiles and more:
+
 ```sh
 git clone https://github.com/cnadiminti/dotfiles.git
 cd dotfiles/bin
