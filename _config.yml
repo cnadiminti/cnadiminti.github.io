@@ -12,11 +12,12 @@ url: https://cnadiminti.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Job role
+author: Chandra Nadiminti
 role: Software Designer
 # Social networks usernames
 social:
   - title: github
-    url: http://github.com/cnadiminti
+    url: https://github.com/cnadiminti
   - title: facebook
     url: https://www.facebook.com/chandramohanbabu.nadiminti
   - title: linkedin
