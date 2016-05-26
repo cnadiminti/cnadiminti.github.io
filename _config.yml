@@ -10,19 +10,22 @@ title: Chandra Nadiminti
 email: nadiminti.chandra@gmail.com
 url: https://cnadiminti.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+author: Chandra Nadiminti
+keywords: Chandra, Nadiminti, software, designer, developer, openstack, cloud, IT, github
+# CSS theme: available values are: default, blue, green, red, pink, violet
+csstheme: red
 
 # Job role
-author: Chandra Nadiminti
-role: Software Designer
+role: Software Designer, Developer
+
 # Social networks usernames
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/chandranadiminti
   - title: github
     url: https://github.com/cnadiminti
   - title: facebook
     url: https://www.facebook.com/chandramohanbabu.nadiminti
-  - title: linkedin
-    url: https://www.linkedin.com/in/chandranadiminti
-
 
 # Postal address (add as many lines as necessary)
 address:
